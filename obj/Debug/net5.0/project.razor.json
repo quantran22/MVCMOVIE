@@ -15619,6 +15619,11 @@
   "RootNamespace": "MVCMovie",
   "Documents": [
     {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\HelloWorld\\Demo.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Demo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15641,6 +15646,11 @@
     {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
