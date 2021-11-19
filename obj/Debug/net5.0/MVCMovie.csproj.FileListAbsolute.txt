@@ -192,3 +192,8 @@ E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Create.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Delete.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Details.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Edit.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Index.cshtml.g.cs

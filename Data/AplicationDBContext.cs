@@ -23,6 +23,9 @@ using MVCMovie.Models;
         public DbSet<MVCMovie.Models.Product> Product { get; set; }
 
         public DbSet<MVCMovie.Models.Movie> Movie { get; set; }
+
+        public DbSet<MVCMovie.Models.KhachHang> KhachHang { get; set; }
+        
         
     }
  }
