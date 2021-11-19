@@ -187,3 +187,8 @@ E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
