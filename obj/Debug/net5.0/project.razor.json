@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\MatHang\\Delete.cshtml",
+      "TargetPath": "Views\\MatHang\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Product\\Details.cshtml",
       "TargetPath": "Views\\Product\\Details.cshtml",
       "FileKind": "mvc"
@@ -15669,6 +15674,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\MatHang\\Index.cshtml",
+      "TargetPath": "Views\\MatHang\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15684,6 +15694,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Category\\Create.cshtml",
+      "TargetPath": "Views\\Category\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Category\\Edit.cshtml",
+      "TargetPath": "Views\\Category\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\KhachHang\\Index.cshtml",
       "TargetPath": "Views\\KhachHang\\Index.cshtml",
       "FileKind": "mvc"
@@ -15691,6 +15711,11 @@
     {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Person\\Delete.cshtml",
       "TargetPath": "Views\\Person\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Category\\Delete.cshtml",
+      "TargetPath": "Views\\Category\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15711,6 +15736,11 @@
     {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Student\\Index.cshtml",
       "TargetPath": "Views\\Student\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Category\\Details.cshtml",
+      "TargetPath": "Views\\Category\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15744,8 +15774,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\MatHang\\Create.cshtml",
+      "TargetPath": "Views\\MatHang\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\MatHang\\Edit.cshtml",
+      "TargetPath": "Views\\MatHang\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15776,6 +15816,11 @@
     {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Product\\Index.cshtml",
       "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\MatHang\\Details.cshtml",
+      "TargetPath": "Views\\MatHang\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15811,6 +15856,11 @@
     {
       "FilePath": "e:\\NETcore\\MVCMovie\\Views\\KhachHang\\Edit.cshtml",
       "TargetPath": "Views\\KhachHang\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\MVCMovie\\Views\\Category\\Index.cshtml",
+      "TargetPath": "Views\\Category\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
