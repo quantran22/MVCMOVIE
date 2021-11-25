@@ -18,8 +18,6 @@ using MVCMovie.Models;
 
         public DbSet<MVCMovie.Models.Student> Student { get; set; }
 
-        public DbSet<MVCMovie.Models.Employee> Employee { get; set; }
-
         public DbSet<MVCMovie.Models.Product> Product { get; set; }
 
         public DbSet<MVCMovie.Models.Movie> Movie { get; set; }

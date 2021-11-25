@@ -15699,11 +15699,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\MNM\\MvcMovie\\Views\\Employee\\Index.cshtml",
-      "TargetPath": "Views\\Employee\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\MNM\\MvcMovie\\Views\\Movie\\Details.cshtml",
       "TargetPath": "Views\\Movie\\Details.cshtml",
       "FileKind": "mvc"
@@ -15716,11 +15711,6 @@
     {
       "FilePath": "d:\\MNM\\MvcMovie\\Views\\Person\\Details.cshtml",
       "TargetPath": "Views\\Person\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\MNM\\MvcMovie\\Views\\Employee\\Edit.cshtml",
-      "TargetPath": "Views\\Employee\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15741,11 +15731,6 @@
     {
       "FilePath": "d:\\MNM\\MvcMovie\\Views\\Student\\Index.cshtml",
       "TargetPath": "Views\\Student\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\MNM\\MvcMovie\\Views\\Employee\\Details.cshtml",
-      "TargetPath": "Views\\Employee\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15819,11 +15804,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\MNM\\MvcMovie\\Views\\Employee\\Delete.cshtml",
-      "TargetPath": "Views\\Employee\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\MNM\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15836,11 +15816,6 @@
     {
       "FilePath": "d:\\MNM\\MvcMovie\\Views\\MatHang\\Details.cshtml",
       "TargetPath": "Views\\MatHang\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\MNM\\MvcMovie\\Views\\Employee\\Create.cshtml",
-      "TargetPath": "Views\\Employee\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

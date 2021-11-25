@@ -573,11 +573,6 @@ D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
 D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
 D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
 D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
-D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
-D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
-D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
-D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
-D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
 D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Demo.cshtml.g.cs
 D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
 D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
