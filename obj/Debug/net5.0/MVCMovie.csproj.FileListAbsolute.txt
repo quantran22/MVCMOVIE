@@ -207,3 +207,421 @@ E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\MatHang\Delete.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\MatHang\Details.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\MatHang\Edit.cshtml.g.cs
 E:\NETcore\MVCMovie\obj\Debug\net5.0\Razor\Views\MatHang\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.exe
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.deps.json
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.runtimeconfig.json
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.runtimeconfig.dev.json
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ref\MVCMovie.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.Views.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\MVCMovie.Views.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.csproj.AssemblyReference.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.AssemblyInfoInputs.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.AssemblyInfo.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.csproj.CoreCompileInputs.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.RazorAssemblyInfo.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.RazorAssemblyInfo.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MVCMovie.StaticWebAssets.Manifest.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MVCMovie.StaticWebAssets.xml
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MVCMovie.styles.css
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.TagHelpers.input.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.TagHelpers.output.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.RazorCoreGenerate.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Demo.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\KhachHang\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\KhachHang\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\KhachHang\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\KhachHang\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\KhachHang\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\MatHang\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\MatHang\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\MatHang\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\MatHang\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\MatHang\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Person\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Person\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Person\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Person\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.RazorTargetAssemblyInfo.cache
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.RazorTargetAssemblyInfo.cs
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.Views.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.csproj.CopyComplete
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\ref\MVCMovie.dll
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.pdb
+C:\Users\OhhNOo\Desktop\Thư mục mới\MvcMovieDemo\obj\Debug\net5.0\MVCMovie.genruntimeconfig.cache
+D:\MNM\MvcMovie\bin\Debug\net5.0\appsettings.Development.json
+D:\MNM\MvcMovie\bin\Debug\net5.0\appsettings.json
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.exe
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.deps.json
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.runtimeconfig.json
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.runtimeconfig.dev.json
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ref\MVCMovie.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.pdb
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.Views.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\MVCMovie.Views.pdb
+D:\MNM\MvcMovie\bin\Debug\net5.0\Humanizer.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MNM\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.csproj.AssemblyReference.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.AssemblyInfoInputs.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.AssemblyInfo.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.csproj.CoreCompileInputs.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.RazorAssemblyInfo.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.RazorAssemblyInfo.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\staticwebassets\MVCMovie.StaticWebAssets.Manifest.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\staticwebassets\MVCMovie.StaticWebAssets.xml
+D:\MNM\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MVCMovie.styles.css
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.TagHelpers.input.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.TagHelpers.output.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.RazorCoreGenerate.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Demo.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\KhachHang\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\MatHang\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\MatHang\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\MatHang\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\MatHang\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\MatHang\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Person\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Person\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Person\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Person\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Person\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.RazorTargetAssemblyInfo.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.RazorTargetAssemblyInfo.cs
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.Views.pdb
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.dll
+D:\MNM\MvcMovie\obj\Debug\net5.0\ref\MVCMovie.dll
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.pdb
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.genruntimeconfig.cache
+D:\MNM\MvcMovie\obj\Debug\net5.0\MVCMovie.csproj.CopyComplete
