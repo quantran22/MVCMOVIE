@@ -7434,24 +7434,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OhhNOo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pdthe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MNM\\MvcMovie\\MVCMovie.csproj",
+      "projectUniqueName": "E:\\MnM\\MvcMovie\\MVCMovie.csproj",
       "projectName": "MVCMovie",
-      "projectPath": "D:\\MNM\\MvcMovie\\MVCMovie.csproj",
-      "packagesPath": "C:\\Users\\OhhNOo\\.nuget\\packages\\",
-      "outputPath": "D:\\MNM\\MvcMovie\\obj\\",
+      "projectPath": "E:\\MnM\\MvcMovie\\MVCMovie.csproj",
+      "packagesPath": "C:\\Users\\pdthe\\.nuget\\packages\\",
+      "outputPath": "E:\\MnM\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\OhhNOo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\pdthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7506,16 +7501,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
